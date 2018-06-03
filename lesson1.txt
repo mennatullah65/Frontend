@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<title> Our First Page </title>
+		<h1>Hello There</h1>
+	</head>
+	
+	<body>
+		<p>This Is Our First Text</p>
+		<a href="https://www.google.com/" target="_blank">Google</a>
+		<br>
+		<br>
+		<h3>See That image</h3>
+		<br>
+		<img src="https://placehold.it/200/001/" title="image">
+		<br><br><br>
+		<h4>
+			Enter Your Data
+	    </h4>
+			<p>
+			    <br>
+				Name:
+				<input type="Text" value="">
+				<br>
+				Password:
+				<input type="Password" value="">
+				
+            </p>			
+		<br>		
+		
+	
+
+	<br><br><br>
+	
+	</body>
+</html>
